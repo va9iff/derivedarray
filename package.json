@@ -1,0 +1,15 @@
+{
+  "name": "derivedarray",
+  "version": "1.0.0",
+  "description": "dynamicly derived arrays from another arrays",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "va9iff",
+  "license": "MIT"
+}
