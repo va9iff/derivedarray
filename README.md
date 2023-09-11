@@ -5,7 +5,7 @@ store the result, but then a change on the main array won't be reflected to your
 reference. Derived Arrays makes it both - performant and cleaner.
 
 ```js
-import { RefArray } from "DerivedArray"
+import { RefArray } from "derivedarray"
 
 const users = new RefArray(
 	{ name: "Vagif" }, 
